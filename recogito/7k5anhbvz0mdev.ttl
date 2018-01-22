@@ -1,0 +1,2277 @@
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix pelagios: <http://pelagios.github.io/vocab/terms#> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#575346fe-08e5-4b4b-9885-d9115749f95f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://dare.ht.lu.se/places/26027> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e9b0bbc7-4b1b-4965-a7da-9c6f2e996b02>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#815bdf0b-1c0c-4eae-8b8a-54b18fdf364f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3175395> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d60ee224-2589-4de6-88bb-46ce4df60ffe>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4996248> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#15d737ce-d912-48de-8aae-789ab04d7d6e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#51e60639-0346-462b-a228-5169e12959b3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2638360> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f463e54b-5941-41c1-8fc4-433aa5e334e3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2646863> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f12833de-4379-43b9-ba0c-54e2074fba9b>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8aa11c83-951f-40a9-bbe5-51d6a3ed5199>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2661886> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#40a911b6-773f-4eaa-9484-1abaa074fde4>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e7163756-6467-4349-8cb9-d174497797d3>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#49c51c60-f248-43ca-9984-221de375f524>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/109126> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#195fa53c-317a-4fe3-a5d2-363ff16b335c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5692466> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#960bb368-10c2-4920-8d83-26e3435f0923>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2647209> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#29ac5de2-a783-4223-ba3e-32bfe174bccd>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3582676> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ccda924a-6aec-47a1-b372-8d3ef6c2dccb>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#98cf2501-c0e8-4a49-a3e2-1473713bb217>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b8931954-aa17-4b9d-be5b-0624386e8240>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643123> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f7c171cf-921a-4f22-aa96-1208293f1764>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5376095> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4904415d-8042-436a-b682-fef20f1e54b7>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2638360> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#42134645-e7fe-474e-b03c-f341c7d806c8>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2159851> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6725f343-f665-46ec-aa8a-3d5eaa37dd6f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2073139> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4f0bd345-a501-482e-b8d0-89f19e86efd0>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4887398> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f7b2a8c2-f4f9-4129-839a-82fada553b2b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/971421> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f9e96f0b-dd33-41cf-adde-d470adb66b43>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3018074> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8a2d241b-c65c-4b6a-9d0b-9f70adf82bc6>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#11ce43bb-bc65-47b6-9e02-351efee65c34>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#49e42a0b-8cfc-4da1-8eeb-addce1eabca9>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#41a21955-0ca8-447a-9644-23434c86b7ae>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2073139> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1fbca2e6-23ac-422d-b454-9e8048099c40>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2648579> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a754575e-f7c6-4e74-9502-7525f5679f10>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d7577d09-7022-4430-9f13-18645e11b3eb>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#cdaaf82c-434f-4e16-b9b3-e0dfb494f605>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2073139> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#21ecdb84-a4d9-4f63-acf6-54daf46f8763>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6645a4a6-25ea-49ca-a443-c049350489fa>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2645970> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#42dc4a31-8374-4072-afee-eb2508ff0aa4>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3337388> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#983c4ab4-3693-4a24-a606-91a8278e609c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3337406> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8f760df6-0569-417c-a040-d09c59a82c7b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2158177> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9ccc2e2a-6cf6-4c6c-9dbb-fa5887005f34>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1508943> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f8a398df-ba9a-4d8e-96f9-9525229ab3c8>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2963597> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e39a331e-a930-4be4-8053-39e971f7ef4f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c17839c6-358a-45b5-b279-0741ec49633f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2646863> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#98f709ae-4b85-4fbe-a85a-54f7994dfe33>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ae8b6e1b-bffe-401c-8938-c2b2ae016b49>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2638360> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a20016d9-7c06-412d-91a6-f45fe9c07265>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4308922> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#10d6ca4a-3879-4653-9ad0-7e1635ea5df3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3174856> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#519e260a-38aa-4cdb-83bb-7a21ad3971f2>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2161540> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#fa4b8bb0-6b41-4314-b287-c6e2ea9beeef>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1508943> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#33380a93-fd4f-4f6d-9001-b5ef7a6e6a45>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5282835> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b188e8f9-8cdf-4395-b9db-f4857d41af99>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2633898> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ca721ffc-8f67-4330-a10a-b9c5e3789cd4>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4b25be2d-64b6-4e8d-b019-e8bf563b1c95>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643123> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a616b00f-c7b6-40b6-96a2-7decf0ef2d28>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e8cb0cad-9125-47cc-bb8f-9d2b0bc8302e>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#fc8fb2b4-bc30-4238-b491-57dcb8cdae86>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/423025> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4cadab3e-352a-41c4-8444-f03f9ffd0199>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2077456> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#620efdbb-8e8c-43a6-8793-ceeb3dc33dfa>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d7e5cf60-c49c-418d-95e5-aed65f142e18>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2158177> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#228625df-3f91-46dc-ad2d-152eadb0d803>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1694262> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a01a4f65-fedd-47e5-9e28-3ec642562022>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9a4c071a-01a5-4a29-8ebe-b8a3ef89c4a7>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#0e77b785-5c92-4dc7-b013-7de4cff3a23b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#de35e138-67c5-4f38-a5ed-cf3fdb777daa>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/432744> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#2e34082b-1e92-4101-bb17-942d0f2922e2>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c1d33e53-8cfe-47c1-9082-0a58c27b7ae2>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5153420> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3977c033-77e3-40ce-9878-54b06e182631>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5282835> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#87df2125-991b-49a3-8703-4f0e98c118f5>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7f5c0ad3-5366-41b9-bbd5-1eb2f013e113>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2655707> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7bed7942-e5ec-4898-b2d4-fb36fc8cdf55>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#144db3b2-5e36-4ef0-a450-f36877a0a26d>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f696f181-b28e-4f1b-9921-1e9e7a5fcb5c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2983276> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c1482f43-82ec-4332-b608-9b3a4b5f5051>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#395cbc4c-0b87-488a-8bcc-d8cd7080d53d>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5165445> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#dad24658-2335-4a87-9bd3-e0ae618be652>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2633948> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7d3bb3b2-907a-44ef-86ec-6e15ef7845b1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6157a814-701c-4eac-ab09-561b2d5f3c82>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/501482> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3b618f6f-135b-4e33-8422-80b2a52f9faf>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6255146> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ef209b13-6525-4476-bd2f-7caca99b7153>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2640729> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6b3d8582-f100-4ba8-a4da-00a3cec7e47e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6255146> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#461379b0-1f64-477d-9003-9921e4ee4852>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#0278683e-43b8-4eea-842c-c050b621adcc>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/50004> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9d69f8f7-70c0-44d4-bb8a-1189819038f5>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1023656> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#daa016c6-cf76-4247-8384-43487408f9ef>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#2ad5ad5a-14e3-43cc-af1f-b37f18170fea>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/599688> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ef4172cc-1256-45c9-86b7-71b9ae836f94>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8a33aa58-f3af-4667-902f-810a0a9ab3ff>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/8299863> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#467dbccc-fcc9-48ef-8f77-cd13f2c939d9>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2638360> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#07e00e01-0cd3-4687-9879-3e47236fcc15>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#62b58c9d-389f-4684-8110-525db9e3ae57>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#264d45b8-aee0-4dff-95fa-76a1c12ebc81>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5324200> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c5c85c79-5367-4a17-9730-a733bdd56b29>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4560349> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6f97a217-dbcd-413a-9717-4fc63e178779>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3175395> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a57d003d-3131-4090-8867-c0ea7e171e01>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2074526> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8d4345cc-74ac-49f4-adb5-b42a87e50c78>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#24121f53-5201-4909-87a2-66e3cad710b0>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3042142> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#29e17630-6412-4a28-af10-77850de9346c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6255146> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#bae35cde-1426-4a05-9d42-43a2a2409b7c>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#42a2274e-eaca-4d59-9bd7-e24444265687>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5692466> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1130fc15-6fb6-4819-99bb-5fa535610204>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2654993> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d648bf7d-2393-452b-a941-801fe27b1409>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4395acc3-6bdd-4ffd-aad9-ffe00567ba5b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2641170> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8c8417ed-424b-475b-bd22-759cb4412fc4>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7dd5390e-c155-4e63-9728-833787c42dfa>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#57f3386d-0520-40ea-b024-aee3266425f4>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#023929c6-8e6a-4b75-86b9-60fc3639a874>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2634715> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a8030387-1eb7-4325-bf5f-00b3339cbbbc>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2961123> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#56a7a2ad-0848-4c90-971a-ae4f7577d565>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/971421> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#39b71824-be2a-4148-938e-63c0b8cf4b29>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#284ad662-2550-45a3-8700-37179adfdee4>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5165418> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#bd96804a-ce74-479b-aed5-86e6b9965878>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3d8cb822-5e38-4440-b4d1-a6b113dea3c9>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2644688> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#06b697cd-1c03-451d-8f4e-13558f6b7d34>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1334c22d-8fdb-40aa-8f44-f46f27d28ca6>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4170894> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ef98f814-8405-425e-b29e-693ca029db15>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7795dd01-8026-433c-9ce5-4f9ef775acae>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2641658> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5ae95a9f-f2b9-4e10-8790-adb4f7e5b89c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5196f01c-8d10-4517-86d8-a117fdeaeff5>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2644444> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#268742b2-7c48-475b-847c-5013bb5f436a>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8faddd13-86b8-4989-bbfc-13b10410aee5>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#50f132c4-82d4-4a6b-a3f6-e8b56bba1146>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2159851> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1324500e-9c29-4c86-bc95-1da8270a1fa5>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2641673> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#26dbab90-96fe-4151-bffc-0ac27f815c6c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a1e080a8-c892-4a69-aa35-23bb49d4d72d>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3688685> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a5e3ce3b-954c-45b4-9793-34cbaad4590b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2161540> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f4cc81e4-8e25-4d30-965f-58b623c8905e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5162044> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1681c421-5df1-456d-acf8-b19c8553f10b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5128638> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#99374d57-8377-469e-ad89-c0b9adb23906>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1fce12d7-40dd-4d64-8468-b967aa5e436e>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#bb560768-4201-4b3b-a182-3e1154d26f40>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#527522f4-95f4-4dd7-aae2-0fbf3ac7cd96>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#42cd02df-3b01-4181-aeab-dfe7a39a6400>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2635412> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8a47b050-0072-4dd7-8403-779fe6c381a3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/393473> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#830ef333-e8ff-4754-961d-dbb1e2918d0a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#529a6d03-edac-4a3d-a587-3c6e4898fcc3>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#65e18834-5b20-44e6-b91f-90869359df5d>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2964574> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5f44e9ec-2a23-4837-9e86-45981bea35d8>
+        a             oa:Annotation ;
+        oa:hasBody    <http://dare.ht.lu.se/places/23178> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ac1eb35c-edcc-4531-8f77-e3b86f3b5c45>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5145250> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6a68311f-5022-46db-8af4-58662960b95b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1298824> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3e1385e4-d9e4-41d7-a3c8-df768eb27e86>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4560349> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b3cf9b2e-0ca1-474a-8064-39d66c81f99b>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a5853475-b793-4f20-a56a-1ab17bb41efd>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2648579> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c3ea1540-a8d7-44a9-bcda-0488289625e6>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#bafa0281-9ec5-4bc0-9f8b-1d8f08d4d995>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2226441> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9b2932b3-a7d6-4255-beeb-4e9bfd2b3b3a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2646863> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#50cc695d-31d1-46c7-b695-61b4279d995f>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a0cfcb80-ff59-41b0-91f6-cd647f3b74dd>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/50004> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#aa86cdf2-8b24-4d4e-b39b-eeb451af186a>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ab3cac7a-ad68-47e1-838b-1676c9fe6500>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6edd44c7-80c4-4d3c-9966-6622735ff27b>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#54572430-1217-41f5-a3fc-30bcc22bb8aa>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#df7b7597-8419-4fda-b4c1-07a0abf06ecc>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d5aaace9-708d-45b2-9da0-f8f2f2a38b5f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2648579> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1cd4de1c-2fbc-44d3-8635-c99a5bed7e36>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/89153> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#22f20138-d5c8-44d6-8b5c-6b65d5009dbd>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2648579> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#2c12142a-688e-4b5b-bd13-8f5e98195a4e>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#48d189f6-da75-462b-a340-08f4e6e84f87>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5162044> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6bfd3462-b386-4046-b891-d57f4bbebf77>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2646863> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#43fcc79d-af18-4858-b305-344e912ba7a0>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/293198> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7b7534b3-dd0f-4b4f-b138-93c328ad92ae>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2640101> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c1321025-4b5f-48f1-8356-87357501d90d>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2148928> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b12d724b-8d01-4a3d-88cd-ab7c122234ab>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/98909> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#23798180-4920-4f7e-b75c-d92d6add1bfb>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2640729> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#773f4445-87fd-471c-b103-b43ea741d469>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f021a336-86c7-4f4a-976f-668b4663e7ba>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/109126> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#449da187-e184-4fcf-801d-c6cd1f2fa586>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#281d109b-7031-461f-8eb9-e93f498365a3>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4654bdbd-06f1-48c2-b7d3-382bca4c3ed9>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#935d39cb-7f04-49be-a7e3-32b326756cc6>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2562770> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#76a160ef-09e7-4b00-a085-8322ecc10aa8>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5e4198c4-7719-458f-81c3-5d13be83ca02>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2963597> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7f3daa1b-1024-4052-b0bc-12aa611977bc>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2648579> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#0499ab0d-f7f6-420b-9a78-9fc654fc6d32>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3031702> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4ca6b27c-663c-4167-bd12-6d036ec3ce46>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4519938> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d144a4b3-03b6-43e8-8400-cf1eb24f00d1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1264733> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6ada3627-5d6e-4c03-89a8-ab4367fd629e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2634715> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#252cb1e1-0e8f-4008-a88e-42a7148bfd50>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2634715> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#86a230cf-4a46-4181-8bf8-df716ee4e17c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2161608> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#334571f4-449f-492b-b6c9-55bd3db7656c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6182962> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9dbab8df-a0db-4635-be1e-56389862e6a4>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4560349> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#83bc03a4-6733-41c3-9699-362a43e1807f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2983276> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#26ad7907-0bef-4105-932e-47fb5a1ea742>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/50004> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5d650e04-3d80-48ee-a814-43257a29a009>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2641658> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#411587d7-43c5-4080-b6cf-904af3e216f9>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8c549c61-0161-4171-a183-1b9764d3d8d2>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#938ce937-8d49-4f7f-ad0d-f8f10e930b32>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2644680> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#603c04fb-137e-4097-9388-0b84f9cd6797>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3455784> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6e0a9b38-08bf-4037-91e2-a4c33013716a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#205fb824-6e51-435a-8a72-37b2e8d373c1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2640729> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#717075a6-196b-4166-b337-2b334da51d10>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2073139> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c2a26919-917b-42da-b3be-0314ce45caa6>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b9d1d0f9-2fdb-4166-a3fc-2ea3f03121ac>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/8299850> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e192ccd4-8e2d-4fbf-8284-8f26df621d93>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5364499> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#65ea838b-1463-4551-89ae-5d4c93dd2226>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1271883> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b4846964-f18c-4168-b6a5-f3af08f7f600>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4e7e2d95-7f83-476b-9d77-cdb9e9813730>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#61a29c3d-9d61-43f8-aa7d-658bd57a69cc>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#48919a20-1743-4e12-ba1f-872326026db4>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3834450> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c9df6b53-3f06-40c1-8bf6-2403120ccfd1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4580983> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a558c676-b470-4a03-921e-d3e99fefc077>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ea060a36-8a15-4af4-bd7d-02b3a692b7a8>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/109277> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8280db1b-a2a6-4b85-9d8b-38c8c108a42f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/390903> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4c5fab0a-b9e4-4f8d-b341-96daeb2620a6>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8a927446-7f4a-45a0-b7f6-9409b9cc1b3b>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5080e863-63f5-41e8-b05a-92e0e1b5ffe3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4218165> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8331a3fc-47c5-4c8c-902b-358f0e5f73c6>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ebfe8649-8fb3-4e2b-bc96-e9a8742dec72>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4369976> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d231d17b-4cca-4734-bb9b-5a6fd9cf825e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9bb911e5-dbd9-4295-81a7-41479028abe3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3017382> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#53ed5a71-966d-4e41-a07b-0ac91e882f67>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#15638e10-ce64-4e2f-bc59-b5f9a6efe991>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3688685> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c33cd055-8328-48da-902b-e71c11e94ea4>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2634918> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#66b6f8be-8522-4b47-90a0-5a85d403d21f>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e7f07a23-1345-4b8e-9b7a-91a76f434274>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9f81e595-c299-47b7-8e81-60235abf8482>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6af0cb8b-b1ed-4b90-94b1-defcdf4c9b35>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2648579> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7a62bf18-fc80-435d-aa89-5b88a384ba98>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#05928064-7e5f-4c43-8b4a-f8cdfa8f5e46>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b6848d92-f944-4399-b62c-bca03e6160e6>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2651048> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#00c7c8de-21ab-470f-b966-f829b59a625e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2656065> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#60a0a315-717b-4892-b01c-6172b6f1a00b>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#23f162f0-a4c2-443c-8345-684a50c3e1f3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2648579> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3b35f207-3edb-4f13-ad0e-8cf3da24d4c7>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#948fd9c6-9387-4eea-9ca9-3a33757898c3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#2b3b200a-ffed-4370-b25d-a9790dd9af45>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5145250> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#43f23647-b7ce-4d8f-bae3-6c1cd3f992e3>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#aabfbaa0-1b88-4213-8c80-61593d013ba8>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3175395> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c838f355-7a3b-42aa-8739-acc64dd12067>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2638864> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5fd33195-3d43-4338-b3dc-60704f7adc3a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3031702> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9150969c-ac02-4f96-ad43-7ee8032e5c9f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3017382> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#47291878-c79a-4c77-b746-79daed084f0d>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3608932> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4f572929-630a-422b-a093-6485b472f088>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#89f3d253-5ae9-495c-a78b-ce14b512eb9e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2641555> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9d27a155-c5ef-4f23-904a-b77a1f9f58dd>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#085a1cba-8393-48d2-999f-7faaae8d3692>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2661886> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1cd66f55-2eba-4858-a734-e67e76b5d2e2>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9cd23f32-a772-4ed7-8b90-d64490c7b467>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2646863> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#76b4f08d-b2c6-47ff-b017-72f1955198a6>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#bb9805a3-67c1-4ad7-b68d-86dfcadfde9b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4560349> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a24d26d1-f18f-4823-9b68-d6da1ade8fdd>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4354428> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b75c1e7d-9ebd-414f-9bf7-8bb9b3e28286>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#41f7969d-1131-492c-a3a6-2373b9403a4a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#54ae92ca-6d5c-4251-8857-fd05d2d0ca4b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4560349> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8559562f-99f7-4478-819a-6ce808e94473>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/50004> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#35e0a5b3-a23c-47be-88b9-a0d79ecd6741>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5093235> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#902cbb55-aa87-474f-abb6-bf93d9500baa>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#27641ec1-89e5-41f8-b90d-1bc1fda49b2e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#2af89207-ef84-49bf-bf73-955dd9fda8f7>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/79735> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c9ea832f-cc01-4492-8aa6-52482112a4ef>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/9972803> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#eb6ae9dd-f885-4468-add9-0a6618640725>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4950747> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f632e235-d535-4876-98a0-75f419e265b0>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4788444> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#937e5580-8602-4177-8287-4e88a786ddef>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2648579> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8c25889d-ca3a-498b-9d95-b262f18b7cf5>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2073139> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#55385a3c-dc1a-409e-aed9-e2d206bc8f79>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5a143607-aa68-4988-89c4-4c680681f30a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/50004> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#61f0173a-412b-484b-a7c7-b3efeea39883>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a45dad03-6ced-4a6b-bead-a564a8bd9d93>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7b2196ab-de03-4346-be65-f72b293452fa>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#73ca53e3-c740-430a-a2fc-f2b94e1c40a0>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#76fb944a-c5d6-4963-9c23-3199b2817371>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5692466> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#37a90bd6-60e9-40ea-a38f-13270fe4d963>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#46aaf5a3-4fed-4c19-b95b-a59cd9515cc6>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2073139> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#deef4390-9111-4600-a11e-f27af1ca7d47>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643142> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#0dfb6123-5ad5-4c58-be4c-95c352b5d477>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2648579> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e270fd97-a67d-4647-b1cb-919fc7d78ac3>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c0a43e79-ad34-46bb-a3d9-cac0d051aaa6>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2149586> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d9d4e423-70a1-4bfa-ad49-58d17bfe5c60>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2964574> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e6356631-998b-4e69-927a-cfebce54e27f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2161540> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ef13b983-82fc-485d-8ba9-6c079c41616f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4b43d890-b5fa-4b6a-b3e1-77e28dada25a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/962330> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ef8db746-4313-4d17-a231-92b9df8b6b45>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#51983739-45df-40d1-a4be-6d0d8f6f225a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/524894> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#fe567d22-c9f1-42ca-b830-49ff120a7257>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2638360> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8034e318-5ddc-4c71-a37d-1c6cbb2b642f>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4c776674-9555-4666-8098-c913a6cf6d77>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7d8e076b-f925-43a9-8a37-9d2af45d8c04>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5113775> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#bc79fc52-113e-40b6-8bf9-7f8ce582054e>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d72798c9-0d83-4d87-ae94-fab4ea887c8f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2302357> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#771076b9-ec8c-493b-bc14-caf6d47d37e0>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c607f11d-57a6-46f4-b462-d5fa47728364>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#0060bb1b-ea90-47e5-bde6-51d82355ea9a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2165087> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#106f719f-2bdd-4975-ac3d-6a5de553c314>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2638360> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3d065fab-35a7-4e63-9f85-3cb80e99bdb6>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2207796> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#eefb16d0-fe3e-46e6-81ba-e9751183f73e>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6f8ff7a0-c49e-48bf-ab41-6d29ab4568dd>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2983276> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c6e8f651-b3c0-4c1a-9766-5ac77edaa685>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2983276> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6736af59-f043-43fc-a162-983f672c0011>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/971421> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#be349dc7-575c-4b3d-a31f-95c05f55b1b6>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3017382> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ebd1abe7-d422-4614-a290-9e3a5db4bc20>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#77b297a4-029b-43ec-adf6-0fb55e076225>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2064549> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3e01a249-266e-4b61-87bd-fc5f59a76b19>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2165159> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c06da99d-9684-4cf5-af22-6fec656b0031>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#055e044a-aec2-442f-8a28-f89d653e16f4>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5091383> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d6496fb6-5955-48cb-9f7d-df3e653ecc47>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#27e9193c-ce63-4139-a3b2-7749863420ed>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3e325b22-19c6-4e56-a4d9-88046586e0a4>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2964574> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b66d53b6-1447-4628-8065-93c2f7a50cba>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2159851> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8d5433e6-f280-46f2-9807-60522fae160f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#56ae54e5-d2ef-496f-ace9-aeac2396d970>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5140405> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#fb0c659b-145f-462d-a405-31ecdee9e56d>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4560349> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5dee05dc-0f80-4225-8252-bf017a0622c1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1327865> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d527422e-d668-4b91-a168-16a29c6dbcd1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1007400> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5ae7c72f-e49c-490a-b7b2-e2e9fa50fbe7>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ed93c458-511d-46ae-a42e-09aa388a7ae8>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4d5309c6-c0b0-47b6-a7ae-be9fbddbd2a4>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3031702> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3a91c656-5bc6-45c8-91d1-c4b3a555dd8f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5140405> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1a35f006-68aa-459f-92dd-ca563156b747>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5113775> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#00000a10-9067-4bbf-b2fb-ada3c16fb726>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#430d9417-35a8-4052-a00d-d543efbc5918>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/432763> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#90d973d4-0346-4aad-8b13-e13124b7d139>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e49b5e96-7b22-45c2-a359-beec938d052c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5224151> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ea652dd9-9b24-41e5-aed9-e3dd3214d9ab>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2073139> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#cc9eaee1-8303-490c-a840-e963d381c7cb>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2149936> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3c3f0134-e103-4c8e-bb6a-a2154d7bca91>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2640729> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#12bfb8cc-e27f-439c-97f9-7c6a81bf8936>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2648579> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6d8cdf6d-4caf-4668-8f7a-885eb8bc0ce3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2646863> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d72a7ee9-7589-4821-a61c-d5aede477801>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3709f489-24a1-4315-bcfd-34a33f0ddb20>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5145250> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#df0fb2f4-cf30-4e84-978e-cfc36fdbdf6d>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3017382> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#40a0f2f6-775f-4126-aa97-87c21bc451e9>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/79337> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#44840fcd-f849-4084-b3ba-bb3b67bd6913>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7add5d7d-afe2-473e-a3e4-6f034fe9c4e1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2161540> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f2c751cc-7c3e-4a7f-93c2-ece5ca3a96c1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://dare.ht.lu.se/places/23178> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#82e8cfe0-e52d-43c7-a269-307b7f1b194a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1a3d6c8a-6c16-4ba3-90af-8ad356061933>
+        a             oa:Annotation ;
+        oa:hasBody    <http://dare.ht.lu.se/places/25640> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e7cc0380-23ae-4981-900a-2099b491af64>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6f8fde70-88d0-4797-b389-e2cf826daa1c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2971316> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#aa02c146-02bf-4069-8eab-cbf53a873dba>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8bf1fd78-74d1-43b0-a626-43314c1495b3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1006984> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#99f1db41-8bed-44fb-8388-73a1dcdde1a4>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5332921> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f57fdb0c-183d-4d7c-bf21-b1678fb4d9e1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2017370> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c6fd7e8a-093a-480f-b86d-b56d0d98f7e1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2640729> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#99486e22-a6cc-4a1e-a830-096d9f898fed>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#013c404a-4a27-4f44-8c38-e306fb52805c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a6eee13a-0db8-4d5a-8ac6-57de18e46674>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#44daf59d-e5fb-450c-89c9-9139cac5f4c7>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#40b2c0da-e6c0-46aa-9aae-fbcb2a2c8b61>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6255146> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#281e4aeb-b9ce-4606-b9c0-9c212c2c2072>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3582676> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#06f8964c-9603-48a4-a519-05dfdd6e7dca>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4170894> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#fc519676-82d2-46fe-9973-c64b7fe24980>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2073139> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6b6ce743-1455-4739-9d33-c22c491332d6>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#89c8d459-c485-4d20-8fe7-1e89b5ba7cd3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/8299863> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#95d9d0b8-e035-46c0-baa7-4fa84c7964d3>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c79dd6cd-8c58-480e-9460-e8adcd0c6b6a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2983276> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d89275cb-b2e9-4eee-9d85-54c8d495b53d>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8068f20a-4d0a-4a78-b3c0-b790fbe22543>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e2ba06d9-7e7f-44e0-ba06-49b7c87e076c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3017382> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4bb2e033-7657-45c2-8953-9de35de6087b>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#db5aca12-ec1f-470b-99c0-a9eb9d8f0b59>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#23062b8b-61e9-4df8-a47e-429d9cbd76e9>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2646863> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#18b15eb8-0206-4e35-96e1-f4bd0e7eeb2c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2077456> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#64d5efc7-8e7b-4dd8-b057-b4807612f6ff>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4187c21e-0703-4865-b50e-0de0dc020c02>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2073139> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#cb2b69e3-fd4d-4978-80c8-6dc95467e1fd>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3017382> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#61008bcb-fea5-4b3d-9b2e-89c29effe13e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3364682> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a57f656f-7cf6-409a-81f9-abcb513e9f43>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#0487e479-0575-4ba3-80f1-247374312449>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#bca902a8-0002-4b73-80e6-f0f0344320bd>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a30a4002-e231-41bc-96fb-dbacdb505787>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#af61062d-4b67-47cb-a008-d1bf0887d1a6>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f3955ce7-4cc3-4139-b60e-9c7182447697>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/109126> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f2bf3508-50d1-40d5-982c-3a0aaa0f71ef>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a4a370b9-bc11-432d-9dab-93afefdd2d37>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1023656> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f3ff12b2-a702-4316-b4ca-e3aba3aef85b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://dare.ht.lu.se/places/23178> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#070e2fd0-5215-4739-a93c-ee0763418287>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2192628> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7e3d9575-d4c7-4042-b8b1-6348e534c589>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3031702> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4ef1629a-2d89-47ea-a3f1-d5737d77ac50>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2059436> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b983bab6-80a8-4f9c-9994-44e57232e651>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5692466> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8994a36e-5e9b-438d-a2ff-766ace5a90d7>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2964574> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#100ed461-9269-4ead-b80c-918f1edfc8d3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2654410> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1058a805-65ee-44c3-ab9b-7ce0b89ec894>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5692466> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6186d2d5-1eef-4d04-9e1f-781eea7af945>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/109126> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#355b48bb-f43e-4c72-9f12-5d5f1d703a3a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5282835> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#0ea4bf0d-3670-4572-82e7-ddfc4fe9f4b3>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3174856> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#52362241-0c96-4b91-a717-d3205d456966>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5162044> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4200488d-ba42-4419-a0dd-e69155e67e05>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#bd2910b4-598f-456d-8209-43acf8ccf9e1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3017382> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e68999af-4f5b-435e-9fb5-e4d2f3bacf3d>
+        a             oa:Annotation ;
+        oa:hasBody    <http://dare.ht.lu.se/places/44417> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#fc4e0ea9-e7a6-4c49-bb34-3846caa6348d>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/138376> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev>
+        a                pelagios:AnnotatedThing ;
+        dcterms:license  "CC0" ;
+        dcterms:title    "test" .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#51352b2c-cf5e-4de8-9225-8f1446352166>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2623032> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f97484a3-268a-4892-baf3-00e05905726b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4464368> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#95ca6231-a160-49e4-a4fd-b24760563988>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2640729> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5092a78f-c210-4549-8e2a-6ffc6fee9444>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#588aef21-b940-408c-a1c0-858d8d4ce3f7>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#fa56105d-4b3b-4cdb-8905-cd3ff0c4f003>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3516668> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#dbdfdf79-127b-4a29-b31b-4fbb0a0a1d61>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5196220> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#23ef5970-f081-49e5-b9b0-161089536d78>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2647209> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4145aaa5-55d8-4ac8-aeee-10d4c6ba787e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6138210> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f0c0fb9b-97cb-4bea-b18e-72aaf7be1850>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643123> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#bdc15d99-31d2-464b-a31b-091c734bac51>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2652221> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f5b18821-ecf1-43d3-90c8-168038b19282>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4292188> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6090e49b-ffb8-4318-9ff3-790085326dfd>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b8c02495-582a-42eb-b47f-1741633349fd>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2172677> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b8990980-98e8-4502-abbe-2c458a539774>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2149936> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6db00d40-27dd-4c73-93bf-bdf2fe9a9a0f>
+        a             oa:Annotation ;
+        oa:hasBody    <http://dare.ht.lu.se/places/25422> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#936f24ab-f6cb-4fd1-bd92-c14ffd60a713>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#af51eaa3-ce82-4326-b3db-b1c486d74514>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4a441a98-ef53-4ae2-987d-50e1a1b36951>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#83d14165-d0e7-4f34-8956-933c1e7e5abe>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d7bc72c6-8048-4302-972c-02fcd27b0168>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d2e29bf0-7516-4a3f-b3f4-48220e339fa8>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1007400> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3faaf913-3aef-45d6-80c3-7b96ed581df8>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#53ebb747-7483-4169-a3f9-9378652ffa9e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8cfd8cbb-34b0-4c16-949c-444c51486cea>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5224323> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b19da57b-eeda-4dfe-b2bc-099fd83ec35b>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3ddbccb2-0271-4c80-9ae3-de3d6288a4d7>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643123> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b5497f01-e55f-49ec-bcf2-f43e80a80b1d>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/50004> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#643e7aa8-1ab1-4561-9850-548883cdca9e>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#134afa16-0130-4a0c-8cb9-642105957678>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2640729> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#97ef0ab5-c697-47b1-92d4-597019fa4808>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#0ec6e6eb-406d-45b1-a598-2dd0ca93a6ad>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#4d9be482-57c4-44a5-b1f2-6f26f885a72b>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5915413b-bef1-4669-a605-ce64673fccde>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5224151> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#93337276-f0af-4cd5-b13a-f2d121073242>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#77192a41-2afa-43d3-b53b-06ff2872fc05>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1eadf4d1-402a-4b30-a81c-a0aad245bde0>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#42b511dc-f2d3-4e95-8d22-6b40ccf9dab5>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#acaee640-8c89-4210-bc40-2334ae58eef4>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/50004> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#2f002bfa-ef96-444b-ab11-b2ba9cc0cdb6>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/423025> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#90785b87-e797-4323-b029-c7ca63cf4872>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#2ed93e93-e33e-47cf-bf10-a965afa71876>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a01f6072-a830-405b-ac90-3fdc1de2a627>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3359041> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1e44fbcf-934e-4b13-948e-5b5bf485e41a>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#2b401534-7054-4468-a05f-90fd8576ceef>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b74313bf-eb15-4f00-812d-fd766597eb36>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#bdb338bf-6cb6-46e9-bd74-205d1a211897>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/109126> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5b043e1c-1faf-414c-98fe-c3b06a893442>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/170654> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#11db520f-88a1-44a2-bca1-899d4b8a9418>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2638360> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#831b2de1-d11a-40f1-952a-6de74f3a33d9>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4887398> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#cf23cce3-3959-4ead-bbae-a557ff60e113>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643743> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3dd72f48-baf6-44be-ae29-1d2448561e1a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2638360> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#1b382770-96a1-4f9d-97d2-5ed82d191cbc>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2637490> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#0726ab25-000e-4d6c-ac1c-8dac4f10d57e>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ea2f156c-4d81-474c-ae35-56c364e17cf2>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d93890b7-86dd-4cf7-a380-d5b3b3b8d2f0>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1508943> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9c96475b-7c9d-4171-b18b-c51b215ca153>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/170654> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f0c5e9e5-6db7-43e9-8cd1-6d2d8a694606>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#afe7ea5c-e60f-43a7-8512-bd049bbb9487>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#41f2f496-0af6-49aa-8d56-f799c97d1be9>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#da41bb3d-f40c-44ce-93c7-fa07f1ea75b5>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/109126> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c04e9e43-c51a-42f8-87f5-68e9541e2325>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#49e65787-06a6-4f16-a00e-4e3c89b34b48>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/1264733> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#95104eda-f629-4b01-97cb-3ec75fb5642c>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#50d6f40b-c09d-418a-808d-bb04c217373a>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2073139> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#fca7b1bc-1798-4181-8842-1bfe36775c16>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#7ac5ff3a-a882-4ab5-a7bd-8be6ea817bb0>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5091383> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6273dd61-80f6-4c94-b846-a78d6ad48ff4>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/50004> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a30f71f8-f418-4fbd-9f1d-e88791b72adf>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d328a7f4-2405-45fe-a40c-bf478af6a80c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2648579> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6d1cf42b-2b45-408e-aca2-c0aed43b9214>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/3580239> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c536dde7-dfd6-4602-9a20-91ee906ddbad>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#05817e05-82fc-4225-8fef-bede4e648658>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#3b519d31-d92c-4c29-b936-dc8a0c64d2da>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2650225> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#6ca3250e-4691-428d-a0f1-36f205bbeb1e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2637958> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b085179c-41f8-4cc6-a19f-94cef390fd91>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4170894> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#cb034c09-7962-4dce-9329-54458dfdabb6>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/50004> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#880a8f68-403b-4b63-abd5-9c2649223d1c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2643123> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5b440b55-76b8-4260-91f4-a89324db60f1>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2638360> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#0fc93bd3-0773-40bb-bc22-abe8bf7dd74e>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#31303ae2-7f96-429f-bf78-24b56a085846>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2635167> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#e46c5f18-2c39-43bf-8409-b8e62d2339de>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f5b9456b-1f4b-4010-8558-9cb4226aa526>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/4756643> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#eb3a2d35-7d94-480e-a92e-61b2d5c412de>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#660c323f-12ba-4ca3-80f0-7b475cd85ac0>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a95de46e-70e9-494b-a2cb-2f081862012b>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2159851> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8a1b8b88-7308-4b15-8e6a-d3efdb121113>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#fd8cdbcb-f880-4e21-8373-94bcf4b5ef3b>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#d2533e92-553b-4bc7-85e3-7e8da1f1e615>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2077456> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ded6da59-c2dc-4327-9126-a994cc9e7b30>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2637487> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#f24708de-0d65-40e1-83d0-2e94f52beae9>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#8c30a529-605d-4936-9f0e-224a75981d81>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/2652696> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#c366bf29-7125-415d-9971-47801a9df69c>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#a1c2237b-5044-4bdb-9a42-516790edbec4>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9ee54812-81c4-47ef-a413-1b8522119e5d>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5224323> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#5c50c9bb-8135-42ec-a072-e3069aa97e1e>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#46d3b8d5-cc09-4098-83b1-3c5c8c9d5220>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/5097649> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#988b2f25-cc26-4792-b319-5b31ee9f6e69>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/484001> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#9214c705-a491-4a3c-adc8-2ccd8ae04ccd>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/550701> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b244d2fc-b45c-4fe0-be7f-7efb52f96972>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#43204789-db31-4c68-bcf9-c1568037be02>
+        a             oa:Annotation ;
+        oa:hasBody    <http://sws.geonames.org/6269131> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#b1211b33-70a2-4a2f-9a6e-42d9a6b6a352>
+        a             oa:Annotation ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
+
+<http://recogito.pelagios.org/document/7k5anhbvz0mdev#ce1758c4-c3e3-4045-9598-e60b29995aa7>
+        a             oa:Annotation ;
+        oa:hasBody    <http://pleiades.stoa.org/places/248025633> ;
+        oa:hasTarget  <http://recogito.pelagios.org/document/7k5anhbvz0mdev> .
